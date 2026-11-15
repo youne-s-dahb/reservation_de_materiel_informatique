@@ -68,6 +68,3 @@ Le système applique plusieurs règles de gestion, notamment :
 - Un produit ne peut pas être réservé sur une période déjà occupée.
 - Le montant total correspond au montant de location augmenté de la caution.
 
-## Auteur
-
-Projet académique réalisé dans le cadre d'un exercice de développement logiciel et de tests unitaires.
